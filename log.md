@@ -1,3 +1,5 @@
+<!-- Original File-->
+<!--
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
@@ -28,3 +30,11 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
+
+# 100 Days Of Code - Log
+
+
+### Day 00: March 01, 2017
+  Setting up the environment for Python
+  Setting up goals for the challenge 
